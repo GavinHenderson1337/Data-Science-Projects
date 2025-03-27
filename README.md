@@ -1,3 +1,3 @@
-# Lab-6
-# Lab-6
-# Lab-6
+# Data Science Projects
+
+This repository contains my various data science and machine learning projects.
